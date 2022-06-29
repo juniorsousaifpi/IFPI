@@ -1,0 +1,38 @@
+header{
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  main{
+    display: flex; 
+  }
+  
+  footer{
+    text-align: center;
+    border-top: 1px solid gray;
+  }
+  img{
+   max-width: 20%;
+   margin: 7px;
+  }
+  
+  li a{
+  text-decoration: none;
+  }
+  header li{
+  list-style: none;
+  display: inline-block;
+  padding: 0 5px;
+  margin: 5px;
+    
+  }
+  
+  table, th, td{
+    border: 1px solid black;
+    width:  35%;
+    padding: 0 12px;
+    border-collapse: collapse; 
+  }
+    
